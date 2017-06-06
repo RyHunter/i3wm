@@ -1,2 +1,4 @@
 # i3wm
-# CS290-HW1
+# Configuration file
+# Lightly Edited
+# Best Window Manager ever
